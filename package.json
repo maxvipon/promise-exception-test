@@ -1,0 +1,25 @@
+{
+  "name": "promise-exception-test",
+  "version": "0.0.1",
+  "description": "This test shows how Promises A+ libs (Vow and Bluebird) catch an exception into onFulfill callback",
+  "main": "bluebird-exception-catch.js",
+  "dependencies": {
+    "bluebird": "~1.0.0",
+    "vow": "~0.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxvipon/promise-exception-test.git"
+  },
+  "keywords": [
+    "Promises",
+    "A+",
+    "Vow",
+    "Bluebird"
+  ],
+  "author": "Maxim Ponomarev <maxvipon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxvipon/promise-exception-test/issues"
+  }
+}
